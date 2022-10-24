@@ -1,0 +1,6 @@
+C:\Users\sasha\source\repos\DateTimeLibrary\DateTimeLibrary\bin\Debug\DateTimeLibrary.dll
+C:\Users\sasha\source\repos\DateTimeLibrary\DateTimeLibrary\bin\Debug\DateTimeLibrary.pdb
+C:\Users\sasha\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.dll
+C:\Users\sasha\source\repos\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.pdb
